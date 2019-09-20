@@ -1,4 +1,6 @@
 +++
+Welcome to my third website template!
+
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
